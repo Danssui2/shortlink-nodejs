@@ -77,8 +77,7 @@ const removeOwner = async (req, res) => {
     const user = await User.findOne({email})
     user.links.pull(uID)
     await user.save()
-    
-    console.log(link)
+    return res.send("success")
   } catch (err) {
     console.log(err)
     return res.status(500)
