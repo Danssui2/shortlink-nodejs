@@ -10,5 +10,8 @@ Database using mongodb atlas
 - frontend dashboard
 - Link viewer count
 
+## Demo
+https://minifylink.vercel.app/
+
 ## Frontend 
 https://github.com/Danssui2/shortlink-react/tree/master
