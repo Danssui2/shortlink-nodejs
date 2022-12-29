@@ -2,7 +2,7 @@
 Rest api link shortner with google oauth and jwt authorization built with nodejs, express, jsonwebtoken.
 Database using mongodb atlas
 
-### Features:
+### Features
 - Create, Update, Delete Link
 - google login authentication
 - Jwt authorization 
@@ -10,4 +10,5 @@ Database using mongodb atlas
 - frontend dashboard
 - Link viewer count
 
-## Frontend:
+## Frontend 
+https://github.com/Danssui2/shortlink-react/tree/master
